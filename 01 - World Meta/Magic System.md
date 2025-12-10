@@ -1,9 +1,9 @@
 ## Core Concept
-Mana is a natural planetary energy field called Aurox, released into the world during the First Mana Bloom and now flowing through vents, ley lines, and atmospheric currents. Living beings gradually adapted to it, developing specialized organs called Aurynea—“Flux Lungs” in Striver slang—that absorb and regulate ambient mana through breath. Magic is the biological manipulation and transformation of this energy, constrained by natural laws and shaped by environment, mutation, and personal discipline. Though unified in source, mana use varies widely among casters, and its imbalance can reshape bodies, ecosystems, and entire civilizations.
+Mana is a natural planetary energy field called [[Aurox]], released into the world during the First Mana Bloom and now flowing through vents, ley lines, and atmospheric currents. Living beings gradually adapted to it, developing specialized organs called Aurynea—“Flux Lungs” in Striver slang—that absorb and regulate ambient mana through breath. Magic is the biological manipulation and transformation of this energy, constrained by natural laws and shaped by environment, mutation, and personal discipline. Though unified in source, mana use varies widely among casters, and its imbalance can reshape bodies, ecosystems, and entire civilizations.
 
 ---
 ## Source of Mana
-**Mana (Aurox) originates from deep within Auranyx’s core, produced through a fusion-like pressure process that releases energy upward through planetary vents.**  
+**Mana ([[Aurox]]) originates from deep within [[Auranyx]]’s core, produced through a fusion-like pressure process that releases energy upward through planetary vents.**  
 This energy enters the world via **mana vents**, spreads along **ley lines**, and rises into the atmosphere where it forms ambient currents and pressure zones.
 
 Mana is **finite per region but naturally self-replenishing**, restoring itself through continuous deep-core generation unless overdrawn.  
@@ -13,17 +13,17 @@ Environmental factors such as **mana storms**, **celestial alignments**, **tecto
 
 # **Mana Organs (World Standard Biology)**
 
-All natural magic use relies on **Aurynea**—specialized biological organs that function like mana lungs.  
+All natural magic use relies on **[[Aurynea]]**—specialized biological organs that function like mana lungs.  
 They **absorb ambient mana through breath**, filter impurities, and convert it into usable internal energy.  
 Capacity is shaped by **genetics**, **training**, **environmental exposure**, **age**, and—most dramatically—**extreme stress**, which allows Strivers to forcibly grow or deform their Aurynea.
 
-Aurynea have strict natural limits: overuse leads to **overheating**, **mana poisoning**, and eventual **structural collapse**, which can result in permanent loss of magic or death.  
+[[Aurynea]] have strict natural limits: overuse leads to **overheating**, **mana poisoning**, and eventual **structural collapse**, which can result in permanent loss of magic or death.  
 Overload pushes casters into dangerous mutation cycles, with long-term users developing adaptive features and inexperienced casters suffering volatile bursts.
 
 ---
 # **Universal Laws & Limitations**
 
-Mana obeys strict natural laws inherent to Auranyx’s ecosystem:
+Mana obeys strict natural laws inherent to [[Auranyx]]’s ecosystem:
 
 - **True resurrection is impossible** — souls cannot be restored once dissolved.
     
@@ -33,7 +33,7 @@ Mana obeys strict natural laws inherent to Auranyx’s ecosystem:
     
 - **Souls cannot be rewritten or reshaped** — identity sits outside mana’s domain.
     
-- **Infinite scaling is impossible** — output is capped by ambient density, Aurynea capacity, and mental discipline.
+- **Infinite scaling is impossible** — output is capped by ambient density, [[Aurynea]] capacity, and mental discipline.
     
 - **Space cannot be violated without structure** — teleportation or portals require existing pathways.
     
@@ -45,7 +45,7 @@ These laws prevent paradoxes, limit runaway power, and maintain balance within t
 
 Magic places escalating strain on the body and environment:
 
-- **Physical stress** from overusing Aurynea
+- **Physical stress** from overusing [[Aurynea]]
     
 - **Organ degeneration** from persistent overload
     
@@ -59,14 +59,14 @@ Magic places escalating strain on the body and environment:
 At extreme levels of misuse, casters risk **aberration**, **burnout**, **soul fracture**, or triggering **regional mana destabilization**.
 
 ---
-# **Mana Behavior in Auranyx**
+# **Mana Behavior in [[Auranyx]]**
 
 Mana behaves as a hybrid of **fluid dynamics**, **pressure systems**, and **magnetic ley-line attraction**.
 
 It flows in **currents and tides**, forms **high-density regions** near vents and intersections, and reacts violently when pressure systems collide, creating **mana storms**.  
 Disasters, celestial events, and tectonic shifts can dramatically shift mana levels, while certain environments accumulate mana into hazardous saturation zones or drain into deserts.
 
-Auranyx possesses a true **mana weather system**, shaping ecosystems and civilizations alike.
+[[Auranyx]] possesses a true **mana weather system**, shaping ecosystems and civilizations alike.
 
 ---
 # **Magic Categories (System-Level)** (Work In Progress)
@@ -133,9 +133,9 @@ Magic has been the engine of evolution, warfare, ideology, and civilization itse
 
 - **Mana (common term)** – everyday reference for ambient magical energy.
     
-- **Aurox (scientific term)** – technical/academic designation for measurable mana.
+- **[[Aurox]] (scientific term)** – technical/academic designation for measurable mana.
     
-- **Aurynea** – biological mana organs (Auryne singular).
+- **[[Aurynea]]** – biological mana organs (Auryne singular).
     
 - **Flux Lungs** – Striver slang for Aurynea.
     
