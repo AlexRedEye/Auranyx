@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - World Meta/Magic System.md",
+                "file": "00 - Home/Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magic System"
+              "title": "Home"
             }
           }
         ]
@@ -185,10 +185,11 @@
   },
   "active": "ccdb89821441c614",
   "lastOpenFiles": [
+    "01 - World Meta/Magic System.md",
+    "00 - Home/Home.md",
     "07 - References/Templates/Species Template.md",
     "07 - References/Templates/Untitled.md",
     "07 - References/Templates/Location Template.md",
-    "01 - World Meta/Magic System.md",
     "07 - References/Templates",
     "05 - Characters",
     "04 - Magic, Species & Science",

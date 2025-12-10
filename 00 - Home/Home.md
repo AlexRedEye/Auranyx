@@ -1,0 +1,2 @@
+## World Meta
+[[Magic System]]
