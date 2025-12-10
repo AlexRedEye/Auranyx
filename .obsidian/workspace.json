@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "0eb0b028cc0e8293",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bda0079bb6b2c6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccdb89821441c614",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - World Meta/Magic System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magic System"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f374f17d48b0a30",
+    "type": "split",
+    "children": [
+      {
+        "id": "792741e2e6f53d74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47fdeac4bb549613",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ca4a7a672be4795b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fc94d6fb0ae1366a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "979ef2ed23e4a11a",
+    "type": "split",
+    "children": [
+      {
+        "id": "668f41f27598a051",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "88e949bc2f4be186",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 - World Meta/Magic System.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Magic System"
+            }
+          },
+          {
+            "id": "a2e822ed7acadc12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 - World Meta/Magic System.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Magic System"
+            }
+          },
+          {
+            "id": "faeca7e7b621fc99",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d3cb7070ac901194",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "53e91a82536af34c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 - World Meta/Magic System.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Magic System"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ccdb89821441c614",
+  "lastOpenFiles": [
+    "07 - References/Glossary/Aurynea.md",
+    "07 - References/Glossary/Aurox.md",
+    "07 - References/Glossary/Auranyx.md",
+    "01 - World Meta/Magic System.md",
+    "07 - References/Glossary",
+    "07 - References/Glossary.md",
+    "00 - Home.md",
+    "07 - References",
+    "06 - Story & Plot (None)",
+    "05 - Characters",
+    "04 - Magic, Species & Science",
+    "03 - Culture & Societies",
+    "00 - Home",
+    "02 - Geography",
+    "01 - World Meta"
+  ]
+}
