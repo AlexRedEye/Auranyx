@@ -69,7 +69,7 @@ Disasters, celestial events, and tectonic shifts can dramatically shift mana lev
 Auranyx possesses a true **mana weather system**, shaping ecosystems and civilizations alike.
 
 ---
-# **Magic Categories (System-Level)**
+# **Magic Categories (System-Level)** (Work In Progress)
 
 Magic use branches into several fundamental types:
 
@@ -105,7 +105,7 @@ Historic cataclysms have reshaped vents and ley lines, creating the world’s cu
 Mana does not weaken or strengthen uniformly; instead, cycles and disasters dictate eras of abundance, drought, and chaos.
 
 ---
-# **Historical Role of Magic**
+# **Historical Role of Magic** (Work In Progress)
 
 Magic’s emergence reshaped history:
 
