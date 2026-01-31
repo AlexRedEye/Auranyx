@@ -32,26 +32,6 @@ Auranyx/
 
 This repository is designed to be used with [Obsidian](https://obsidian.md/), a powerful knowledge management tool that enables linking between notes and visualizing connections.
 
-### How to Use
-
-1. **Install Obsidian**: Download from [obsidian.md](https://obsidian.md/)
-2. **Clone this repository**:
-   ```bash
-   git clone https://github.com/AlexRedEye/Auranyx.git
-   ```
-3. **Open in Obsidian**: 
-   - Launch Obsidian
-   - Click "Open folder as vault"
-   - Select the cloned `Auranyx` directory
-4. **Explore**: Navigate through the interconnected documents using Obsidian's graph view and wiki-style links
-
-### Recommended Obsidian Features
-
-- **Graph View**: Visualize connections between concepts
-- **Backlinks**: See all references to a specific term or concept
-- **Search**: Find information across all documents
-- **Tags**: Filter content by categories
-
 ## 📚 Core Documentation
 
 Start with these key documents to understand the world:
