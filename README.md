@@ -48,7 +48,24 @@ Start with these key documents to understand the world:
 
 ## 🤝 Contributing
 
-This is a personal worldbuilding project. If you have suggestions or find errors, please open an issue or submit a pull request.
+This is a personal worldbuilding project, but contributions are welcome! Whether you want to suggest lore, fix errors, expand existing content, or ask questions about the world—your input is valued.
+
+### How to Contribute
+
+**For Lore Contributions, Questions, or Suggestions:**
+- Use the [Lore Contribution issue template](.github/ISSUE_TEMPLATE/lore-contribution.md)
+- This helps organize discussions about:
+  - New lore ideas or expansions
+  - Corrections or clarifications
+  - Questions about canon
+  - New glossary terms
+  - Any other worldbuilding topics
+
+**For Other Contributions:**
+- Bug fixes, typos, or formatting: Open a pull request directly
+- General feedback or discussion: Open a regular issue
+
+All contributors are welcome—no prior knowledge of the world required. Discussions come before decisions.
 
 ## 📝 License
 
