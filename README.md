@@ -66,7 +66,7 @@ Start with these key documents to understand the world:
 
 - **Hard Magic System**: Magic follows consistent natural laws with biological constraints
 - **Ecological Magic**: Mana behaves like a weather system with tides, storms, and regional variations
-- **Historical Depth**: From the First Mana Bloom to the current Spark of War era
+- **Historical Depth**: From the First Mana Bloom to the current era (Spark of War)
 - **Diverse Casting Styles**: Multiple approaches to magic use, from Internal Manipulators to Biocasters
 - **Technology Integration**: Reactor technology allows non-biological magic use
 
