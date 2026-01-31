@@ -28,10 +28,6 @@ Auranyx/
 └── README.md                # This file
 ```
 
-## 🚀 Getting Started
-
-This repository is designed to be used with [Obsidian](https://obsidian.md/), a powerful knowledge management tool that enables linking between notes and visualizing connections.
-
 ## 📚 Core Documentation
 
 Start with these key documents to understand the world:
